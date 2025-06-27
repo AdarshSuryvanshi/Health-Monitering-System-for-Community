@@ -58,13 +58,12 @@ Sanskar Thakur
 Sharavan Surve
 
 📽️ Demo & Presentation
-📹 [Upload your Demo Video to Google Drive or YouTube]
 🔗 Then add the shareable link here, like:
-[▶️ Watch Demo Video]([https://drive.google.com/your-demo-video-link](https://drive.google.com/file/d/1RG3vnetZLn5h-MSXTjyMDTLBNZWONvpi/view?usp=drive_link))
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1RG3vnetZLn5h-MSXTjyMDTLBNZWONvpi/view?usp=drive_link)
 
-📊 [Upload Presentation to Google Drive]
+
 🔗 Then link it like this:
-[📄 View Project Presentation]([https://drive.google.com/your-ppt-link](https://docs.google.com/presentation/d/1LVwQLlrYPXoRlRXY99jeLYHi59jQWaBi/edit?usp=drive_link&ouid=101590581817182953489&rtpof=true&sd=true))
+[📄 View Project Presentation](https://docs.google.com/presentation/d/1LVwQLlrYPXoRlRXY99jeLYHi59jQWaBi/edit?usp=drive_link&ouid=101590581817182953489&rtpof=true&sd=true)
 
 📚 References
 Globalization and Health – Analysis of mHealth Research
