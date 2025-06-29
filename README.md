@@ -25,17 +25,13 @@ OS: Windows 11
 Flutter SDK: 3.5.24
 
 ## Future Scope
-🔐 Firebase Integration – Real-time updates, secure medical history
+*Firebase Integration – Real-time updates, secure medical history
+*Authentication – Secure user login
+*Payments – Add payment system for appointment booking
+*Interactive Chatbots – Help new users and answer basic queries
+*Video Consultation & File Sharing
 
-👤 Authentication – Secure user login
-
-💳 Payments – Add payment system for appointment booking
-
-🤖 Interactive Chatbots – Help new users and answer basic queries
-
-📞 Video Consultation & File Sharing
-
-👥 Team Members
+## Team Members
 Adarsh Suryavanshi
 
 Nishit Tare
