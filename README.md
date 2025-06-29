@@ -4,17 +4,17 @@
 
 ## Problem Statement
 Many patients struggle to book nearby doctor appointments due to:
-*Poorly structured healthcare systems 
-*Long wait times
-*Difficulty using online platforms, especially in underdeveloped areas
+1)Poorly structured healthcare systems
+2)Long wait times
+3)Difficulty using online platforms, especially in underdeveloped areas
 
 ## Proposed Solution
 Our app solves this by providing:
 
-*Search doctors by specialty
-*Book appointments based on real-time availability
-*In-app chat for direct communication
-*User-friendly design for smooth navigation
+1)Search doctors by specialty
+2)Book appointments based on real-time availability
+3)In-app chat for direct communication
+4)User-friendly design for smooth navigation
 This system simplifies appointment management, reduces frustration, and enhances the doctor-patient relationship.
 
 ## Tech Stack
@@ -25,11 +25,11 @@ OS: Windows 11
 Flutter SDK: 3.5.24
 
 ## Future Scope
-*Firebase Integration – Real-time updates, secure medical history
-*Authentication – Secure user login
-*Payments – Add payment system for appointment booking
-*Interactive Chatbots – Help new users and answer basic queries
-*Video Consultation & File Sharing
+1)Firebase Integration – Real-time updates, secure medical history
+2)Authentication – Secure user login
+3)Payments – Add payment system for appointment booking
+4)Interactive Chatbots – Help new users and answer basic queries
+5)Video Consultation & File Sharing
 
 ## Team Members
 Adarsh Suryavanshi
